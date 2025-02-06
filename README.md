@@ -1,5 +1,7 @@
 # receipt-processor-challenge
 
+https://github.com/fetch-rewards/receipt-processor-challenge
+
 Steps:
 1. build docker image: `docker build -t go-docker-demo .`
 2. run docker container: `docker run -d -p 8080:8080 go-docker-demo`
