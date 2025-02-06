@@ -1,5 +1,4 @@
-# Fetch Interview 
-## receipt-processor-challenge
+# receipt-processor-challenge
 
 Steps:
 1. build docker image: `docker build -t go-docker-demo .`
